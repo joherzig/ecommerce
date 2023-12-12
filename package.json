@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce",
+  "version": "0.0.1",
+  "description": "Medusa E-Commerce Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "medusa": "medusa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joherzig/ecommerce.git"
+  },
+  "author": "JHE",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/joherzig/ecommerce/issues"
+  },
+  "homepage": "https://github.com/joherzig/ecommerce#readme",
+  "devDependencies": {
+    "@medusajs/medusa-cli": "^1.3.21"
+  }
+}
